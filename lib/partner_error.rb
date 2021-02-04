@@ -1,0 +1,5 @@
+class PartnerError < StandardError
+
+
+
+end
